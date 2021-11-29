@@ -1,0 +1,5 @@
+{
+  "eslint.options": {
+    "terminal.integrated.automationShell.windows": "powershell.exe"
+  }
+}
